@@ -1,0 +1,6 @@
+[console_scripts]
+cam_node = camera_pkg.cam_node:main
+controller = camera_pkg.controller:main
+conui = camera_pkg.robot_controller_app:main
+objdetect = camera_pkg.objectdetection:main
+

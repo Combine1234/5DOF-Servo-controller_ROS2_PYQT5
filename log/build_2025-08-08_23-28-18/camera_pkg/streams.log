@@ -1,0 +1,27 @@
+[0.445s] Invoking command in '/home/monkey/Innovedex_Bot/src/camera_pkg': PYTHONPATH=/home/monkey/Innovedex_Bot/build/camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/monkey/Innovedex_Bot/install/camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_pkg build --build-base /home/monkey/Innovedex_Bot/build/camera_pkg/build install --record /home/monkey/Innovedex_Bot/build/camera_pkg/install.log --single-version-externally-managed install_data
+[0.789s] running egg_info
+[0.790s] writing ../../build/camera_pkg/camera_pkg.egg-info/PKG-INFO
+[0.790s] writing dependency_links to ../../build/camera_pkg/camera_pkg.egg-info/dependency_links.txt
+[0.790s] writing entry points to ../../build/camera_pkg/camera_pkg.egg-info/entry_points.txt
+[0.790s] writing requirements to ../../build/camera_pkg/camera_pkg.egg-info/requires.txt
+[0.791s] writing top-level names to ../../build/camera_pkg/camera_pkg.egg-info/top_level.txt
+[0.793s] reading manifest file '../../build/camera_pkg/camera_pkg.egg-info/SOURCES.txt'
+[0.794s] writing manifest file '../../build/camera_pkg/camera_pkg.egg-info/SOURCES.txt'
+[0.794s] running build
+[0.794s] running build_py
+[0.795s] copying camera_pkg/robot_controller_app.py -> /home/monkey/Innovedex_Bot/build/camera_pkg/build/lib/camera_pkg
+[0.795s] running install
+[0.795s] running install_lib
+[0.797s] copying /home/monkey/Innovedex_Bot/build/camera_pkg/build/lib/camera_pkg/robot_controller_app.py -> /home/monkey/Innovedex_Bot/install/camera_pkg/lib/python3.10/site-packages/camera_pkg
+[0.798s] byte-compiling /home/monkey/Innovedex_Bot/install/camera_pkg/lib/python3.10/site-packages/camera_pkg/robot_controller_app.py to robot_controller_app.cpython-310.pyc
+[0.802s] running install_data
+[0.802s] running install_egg_info
+[0.805s] removing '/home/monkey/Innovedex_Bot/install/camera_pkg/lib/python3.10/site-packages/camera_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.805s] Copying ../../build/camera_pkg/camera_pkg.egg-info to /home/monkey/Innovedex_Bot/install/camera_pkg/lib/python3.10/site-packages/camera_pkg-0.0.0-py3.10.egg-info
+[0.806s] running install_scripts
+[0.833s] Installing cam_node script to /home/monkey/Innovedex_Bot/install/camera_pkg/lib/camera_pkg
+[0.833s] Installing controller script to /home/monkey/Innovedex_Bot/install/camera_pkg/lib/camera_pkg
+[0.833s] Installing conui script to /home/monkey/Innovedex_Bot/install/camera_pkg/lib/camera_pkg
+[0.834s] Installing objdetect script to /home/monkey/Innovedex_Bot/install/camera_pkg/lib/camera_pkg
+[0.835s] writing list of installed files to '/home/monkey/Innovedex_Bot/build/camera_pkg/install.log'
+[0.868s] Invoked command in '/home/monkey/Innovedex_Bot/src/camera_pkg' returned '0': PYTHONPATH=/home/monkey/Innovedex_Bot/build/camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/monkey/Innovedex_Bot/install/camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_pkg build --build-base /home/monkey/Innovedex_Bot/build/camera_pkg/build install --record /home/monkey/Innovedex_Bot/build/camera_pkg/install.log --single-version-externally-managed install_data
